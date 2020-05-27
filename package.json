@@ -1,0 +1,11 @@
+{
+  "name": "ep_monetization",
+  "version": "1.0.0",
+  "description": "WebMonetization for Etherpad",
+  "main": "index.js",
+  "peerDependencies": {
+    "ep_etherpad-lite": ">=1.5.1"
+  },
+  "author": "Joseph E. Reeve",
+  "license": "MIT"
+}

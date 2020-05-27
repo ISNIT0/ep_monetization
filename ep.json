@@ -1,0 +1,13 @@
+{
+  "parts": [
+    {
+      "name": "monetization",
+      "client_hooks": {
+        "documentReady": "ep_monetization/static/js/index"
+      },
+      "hooks": {
+        "clientVars": "ep_monetization/index:clientVars"
+      }
+    }
+  ]
+}
